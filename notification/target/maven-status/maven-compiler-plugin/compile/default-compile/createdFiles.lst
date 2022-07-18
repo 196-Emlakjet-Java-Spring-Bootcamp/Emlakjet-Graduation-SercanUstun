@@ -1,0 +1,5 @@
+com\emlakjet\notification\controller\NotificationController.class
+com\emlakjet\notification\NotificationApplication.class
+com\emlakjet\notification\model\Notification.class
+com\emlakjet\notification\repository\NotificationRepository.class
+com\emlakjet\notification\service\NotificationService.class

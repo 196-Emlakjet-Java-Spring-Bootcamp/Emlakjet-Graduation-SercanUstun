@@ -1,0 +1,8 @@
+com\emlakjet\advertisement\model\Advertisement$AdvertisementBuilder.class
+com\emlakjet\advertisement\dto\request\AdvertisementRequest.class
+com\emlakjet\advertisement\model\Advertisement.class
+com\emlakjet\advertisement\service\AdvertisementService.class
+com\emlakjet\advertisement\config\SecurityConfig.class
+com\emlakjet\advertisement\controller\AdvertisementController.class
+com\emlakjet\advertisement\AdvertisementApplication.class
+com\emlakjet\advertisement\repository\AdvertisementRepository.class
